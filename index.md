@@ -13,7 +13,7 @@ sections:
         label: Let's talk
         url: /contact
         style: button
-      - label: lorem-ipsum
+      - label: Write us
         url: lorem-ipsum
         style: link
         icon_class: lorem-ipsum
